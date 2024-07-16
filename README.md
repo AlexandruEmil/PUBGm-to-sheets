@@ -1,4 +1,4 @@
-# PUGm-to-sheets
+# PUGBm-to-sheets
 
 PUBG Match Stats to Google Sheets
 
