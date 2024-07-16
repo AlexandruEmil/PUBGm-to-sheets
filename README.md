@@ -21,8 +21,9 @@ Clone or download the repository to your local machine
 Install the required libraries by running pip install -r requirements.txt in the command line
 Replace the url variable with the API endpoint for the desired PUBG match
 Replace the PATH TO FILE in the creds = ServiceAccountCredentials.from_json_keyfile_name('PATH TO FILE', scope) line with the path to your Google API credentials JSON file
-Replace the NAME OF SHEET in the sheet = gc.open("NAME OF SHEET").sheet1 line with the name of your Google Sheets document
-Usage
 
+Replace the NAME OF SHEET in the sheet = gc.open("NAME OF SHEET").sheet1 line with the name of your Google Sheets document
+
+Usage
 Run the script in the command line using python pubg_match_stats.py.
 
