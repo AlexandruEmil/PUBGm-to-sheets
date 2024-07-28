@@ -8,14 +8,14 @@ Flowchart
 
 ![252616513-2c5e9c50-a62c-4b3a-a92d-a77db6f86174](https://github.com/user-attachments/assets/d05aa5b8-3866-464f-b8b9-25a67aa28bbe)
 
-Requirements
+Requirements:
 
-Python 3.x
 requests library
 gspread library
 Google API credentials JSON file
 A Google Sheets document to write the data to
-Installation
+
+Installation:
 
 Clone or download the repository to your local machine
 Install the required libraries by running pip install -r requirements.txt in the command line
